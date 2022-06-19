@@ -1,3 +1,3 @@
-Functional or class based?
+Dictionary here?
 
-
+Could use an API but maybe wait till game logic is down first

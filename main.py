@@ -1,5 +1,4 @@
 # GENERATE 3 X 3 MATRIX (RANDOM LETTERS)
-
 # make this a dict when moving towards creating points per word
 import random
 
